@@ -6,12 +6,13 @@
 
 
 
-
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.youtube.com/@alanrodriguez5252"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/alan20071421"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+   <a href="https://www.instagram.com/alan071422/"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/user-attachments/assets/3672af5d-0be4-471d-826d-bc7c983eb756"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="center">
